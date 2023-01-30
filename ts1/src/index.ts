@@ -47,7 +47,7 @@ const objeto: Persona = {
     talla: Talla.Grande,
     direccion: {
         numero: 12 ,
-        calle: "latina",
+        calle:"",
         pais: "Bolivia"
     }
 }
