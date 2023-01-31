@@ -27,8 +27,9 @@ const objeto = {
     talla: Talla.Grande,
     direccion: {
         numero: 12,
-        calle: "latina",
+        calle: "",
         pais: "Bolivia"
     }
 };
+const arr = [];
 //# sourceMappingURL=index.js.map
